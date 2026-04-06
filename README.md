@@ -58,7 +58,7 @@ india-ipo-analysis/
 
 ## 🔗 Links
 
-- 📊 [https://public.tableau.com/views/indiaipoanalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](#) ← உன் link போடு
+- 📊 [https://public.tableau.com/views/indiaipoanalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_linkு
 - 📦 [Dataset — Kaggle](https://www.kaggle.com/datasets/sahilwagh/india-ipo-performance-2010-2023)
 
 ---
